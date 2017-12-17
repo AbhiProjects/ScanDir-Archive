@@ -1,0 +1,17 @@
+*.pyc
+*.pyd
+*.so
+*.sublime-project
+*.sublime-workspace
+benchtree
+build
+dist
+build.bat
+upload.bat
+MANIFEST
+test/*.log
+test/testdir
+__pycache__
+# created by the tox command
+.tox/
+scandir.egg-info/
